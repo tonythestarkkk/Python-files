@@ -1,8 +1,13 @@
-#substaction of 3 numbers
-P=20
-q=90
-res1=P+q
-res2=P-q
-res3=P*q
-res4=P/q
-print("substraction=",res2,"\naddition=",res1,"\nmultiplication=",res3,"\ndivision=",res4)
+#printing values
+a=10
+print("value of a")
+print(a)
+b=20
+print("value of b")
+print(b)
+c=30
+print("value of c")
+print(c)
+d=a-b-c
+print("value of d")
+print(d)
